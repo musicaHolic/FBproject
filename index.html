@@ -1,0 +1,26 @@
+<!doctype html>
+<head>
+  <title>Page Search API</title>
+  <script type="text/javascript" src='js/app.js'></script>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="form-search">
+      <h3>Search FaceBook Pages</h3>
+      <p class="form-search-row"><input id="searchPages" type="text" placeholder="Enter name">
+     <button class="btn btn-medium btn-success" onclick="getData()" type="submit">Search</button>
+	 <button class="btn btn-medium btn-success" onclick="favPages()" type="button">Favourite</button>
+     </p>
+   </div>
+  </div>
+  <div class="results-container" style="height:100%;width:100%">
+  <div class="page-results" style="height:1024px;width:40%">
+  </div>
+  
+  </div>
+ </body>
+</html>

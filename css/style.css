@@ -1,0 +1,13 @@
+.page-results{
+	margin-left:100px;
+	height:1024px;
+	width:40%;
+}
+
+.detail-page{
+	width:60%;
+	margin-left:600px;
+	margin-top:-1000px;
+	height:1024px;
+	background:yellow;
+}
