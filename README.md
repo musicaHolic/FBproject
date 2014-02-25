@@ -1,9 +1,11 @@
-
 Facebook pages are used by businesses, organisations and brands to share their stories and 
 
 connect with users. 
 
 This web app is made using only JavaScript, HTML and CSS. 
+
+How to use:
+Copy the files on a web server like apache. Run the web server and launch index.html.
 
 Functionalities:
 1.You can search any facebook pages
